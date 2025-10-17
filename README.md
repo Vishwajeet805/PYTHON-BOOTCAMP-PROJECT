@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/<your-username>/student-sql-learner?style=flat-square&color=00b4d8" />
-  <img src="https://img.shields.io/github/stars/<your-username>/student-sql-learner?style=flat-square&color=90e0ef" />
+  <img src="https://img.shields.io/github/license/Vishwajeet805/PYTHON-BOOTCAMP-PROJECT?style=flat-square&color=00b4d8" />
+  <img src="https://img.shields.io/github/stars/Vishwajeet805/PYTHON-BOOTCAMP-PROJECT?style=flat-square&color=90e0ef" />
   <img src="https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit" />
   <img src="https://img.shields.io/badge/Powered%20by-Google%20Gemini-4285F4?logo=google" />
   <img src="https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite" />
